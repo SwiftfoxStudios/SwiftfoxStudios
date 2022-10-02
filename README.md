@@ -1,12 +1,12 @@
 <h1 align="center"> My name is Antonio Brito - This is my GitHub!</h1>
 <h3 align="center">
-    I'm a second year Computer Science (BSc) student at the University of Warwick!
+    I'm a second year Computer Science (BSc) student at the University of Warwick
 </h3>
 
 <p align="center">I'm currently working on:</p>
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span></span>
-<img alt="Butterfly" src="https://img.shields.io/badge/Butterfly-fc62b2?style=for-the-badge"/><span> </span>
-[<img alt="Warwick (Dot) Guide" src="https://img.shields.io/badge/Warwick.Guide-43cc68?style=for-the-badge"/>](https://warwick.guide/)<span> </span>
+<a href="https://www.butterfly-social.com"><img src="https://img.shields.io/badge/Butterfly-fc62b2?style=for-the-badge"/></a><span> </span>
+<a href="https://warwick.guide/"><img src="https://img.shields.io/badge/Warwick.Guide-43cc68?style=for-the-badge"/></a><span> </span>
 </p>
 
 <p align="center">I'm proficient in these languages and frameworks:</p>
@@ -26,9 +26,18 @@
 <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/><span></span>
 </p>
 
-<p align="center">Find more about me and what I do here:</p>
+<p align="center">Find out about what I do here:</p>
 
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;">
 <span></span>
+<a href="https://warwick.ac.uk/fac/sci/dcs/"><img src="https://img.shields.io/badge/Warwick_University-621F65?style=for-the-badge"/></a><span> </span>
+<a href="https://uwso.wordpress.com/about-us/"><img src="https://img.shields.io/badge/University_Of_Warwick_Symphony_Orchestra-1f244a?style=for-the-badge"/></a><span> </span>
 
+</p>
+
+<p align="center">Finally, buy me a coffee here:</p>
+
+<p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;">
+<span></span>
+<a href="https://www.buymeacoffee.com/antbr"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a><span> </span>
 </p>
