@@ -1,6 +1,6 @@
 <h1 align="center"> My name is Antonio Brito - This is my GitHub!</h1>
 <h3 align="center">
-    I'm a second year Computer Science (BSc) student at the University of Warwick!
+    I'm a second year Computer Science (BSc) student at the University of Warwick.
 </h3>
 
 <p align="center"></p>
