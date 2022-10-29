@@ -35,7 +35,7 @@
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;">
 <span></span>
 <a href="https://warwick.ac.uk/fac/sci/dcs/"><img src="https://img.shields.io/badge/Warwick_University-621F65?style=for-the-badge"/></a><span> </span>
-<a href="https://uwso.wordpress.com/about-us/"><img src="https://img.shields.io/badge/University_Of_Warwick_Symphony_Orchestra-1f244a?style=for-the-badge"/></a><span> </span>
+<a href="https://github.com/SwiftfoxStudios/SwiftfoxStudios/raw/main/CV_A_Brito_Prof.docx"><img src="https://img.shields.io/badge/Curriculum_Vitae-1f244a?style=for-the-badge"/></a><span> </span>
 
 </p>
 
