@@ -1,12 +1,10 @@
 <h1 align="center"> My name is Antonio Brito - This is my GitHub!</h1>
 <h3 align="center">
-    I'm a second year Computer Science (BSc) student at the University of Warwick. I'm often quite busy but will respond to queries where possible - please see my 🎄<em>seasonal</em>🎄 office hours below:
+    I'm a second year Computer Science (BSc) student at the University of Warwick. I'm often quite busy but will respond to queries where possible - please see my office hours below:
 </h3>
 
 <h4 align="center">
-    Monday 12th - Friday 16th December 13:00-17:00<br>
-    Monday 19th - Wednesday 21st December 13:00-17:00<br>
-    Wednesday 4th - Friday 6th January 14:00-16:00
+    Monday - Friday 11:00-16:00<br>
 </h4>
 
 <p align="center">I'm currently working on:</p>
