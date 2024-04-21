@@ -1,17 +1,8 @@
 <h1 align="center"> My name is Antonio Brito - This is my GitHub!</h1>
 <h3 align="center">
-    I'm a final year Computer Science (BSc) student at the University of Warwick. I'm often quite busy but will respond to queries where possible - please see my office hours below:
+    I'm a final year Computer Science (BSc) student at the University of Warwick. I'm often quite busy but will respond to queries where possible.
 </h3>
 
-<h4 align="center">
-    Monday - Friday 11:00-16:00<br>
-</h4>
-
-<p align="center">I'm currently working on:</p>
-<p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span></span>
-<a href="https://www.butterfly-social.com"><img src="https://img.shields.io/badge/Butterfly-fc62b2?style=for-the-badge"/></a><span> </span>
-<a href="https://warwick.guide/"><img src="https://img.shields.io/badge/Warwick.Guide-43cc68?style=for-the-badge"/></a><span> </span>
-</p>
 
 <p align="center">I'm proficient in these languages and frameworks:</p>
 
@@ -20,7 +11,6 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/><span> </span>
 <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/><span></span>
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><span></span>
-<img alt="Shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/><span></span>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><span></span>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/><span></span>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/><span></span>
